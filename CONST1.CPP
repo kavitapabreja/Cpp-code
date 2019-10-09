@@ -2,6 +2,7 @@
 #include<conio.h>
 const int func()
 {
+	cout<<"Inside function";
 	return 1;
 }
 int main()
